@@ -42,7 +42,7 @@ Kailh Choc Low-Profile Switches , xiao eps32-s3 and capacitive touch
 # PCB AND SCHEMATIC 
 
 ![image alt](https://github.com/AlteranteTony/is-it-a-guitar/blob/09f79e7851ce0f7fd1af5018fc3a9e7f574d6849/pictures/final%20pcb.png)
-
+![iamge alt](https://github.com/AlteranteTony/is-it-a-guitar/blob/5848bc873acebdd3b811dd7e3a02014f0acbfcfc/pictures/final-finalschematic.png)
 
 
 
