@@ -1,6 +1,7 @@
 # is-it-a-guitar
 it plays music looks like guitar but isn't 
 it is basically a guitar shaped musical messenger that tells your computer what notes to play . 
+![image alt](https://github.com/AlteranteTony/is-it-a-guitar/blob/421be2a1fafb23048688aab4dfc987cbc930d15e/pictures/final%20look.png)
 
 # what does is-it-a-guitar-do
 so it is basically a guitar shaped musical messenger that tells your computer what notes to play. it uses EC11 Rotary Encoders , Bourns Slide Potentiometers , 
