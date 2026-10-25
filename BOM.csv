@@ -1,0 +1,7 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+xiao esp32 s3,1,robu,$12.00,$12.00,https://robu.in/product/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0/
+rotary encoder,1,robu,$1.04,$1.04,https://robu.in/product/EC11%20Rotary%20Encoder%20Module%20with%20Knob%20Cap%20for%20Development%20Boards/
+slide potentiometer,1,robu,$2.61,$2.61,https://robu.in/product/pta2043-2010cib254-bourns/
+switches,3,ali express,$1.49,$4.47,https://www.aliexpress.com/item/1005008089864080.html?spm=a2g0o.productlist.main.2.4d5244ccwm26RT&algo_pvid=ea52910f-184c-41a4-8cc4-522562df4f65&algo_exp_id=ea52910f-184c-41a4-8cc4-522562df4f65-1&pdp_ext_f={%22order%22%3A%22232%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!INR!141.86!141.86!!!9.51!9.51!%40210159d417929564002281166e0d7c!12000045838677521!sea!IN!0!ABX!1!0!n_tag%3A-29910%3Bd%3A191bbc36%3Bm03_new_user%3A-29895&curPageLogUid=jFN2G4yYkuO7&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005008089864080|_p_origin_prod%3A
+pcb,1,jlcpcb,$9.83,$9.83,https://cart.jlcpcb.com/shopcart/cart/
+Estimated total shipping,1,,,$3.00,
