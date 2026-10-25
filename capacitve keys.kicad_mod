@@ -1,0 +1,179 @@
+(footprint "capacitve keys"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 14.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a95330d9-6b82-41fe-99f8-6a0707b6f122")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "capacitve keys"
+		(at 0 16 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "28ee4fc9-1afd-4d86-b695-3a276b663688")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77291abc-13ae-4d3f-8373-898cc46d8437")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6cbb6053-ceed-4f7d-bf09-683ad8998a83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -32 -6)
+		(end 20 11)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4f8ff63a-fb00-432c-843e-62901edf7827")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 17.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "452f5296-68a7-40b2-b679-57a08d14a134")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -24 5)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 5 -5) (xy 7 -7) (xy 7 -9) (xy 6 -10) (xy -6 -10) (xy -7 -9) (xy -7 -7) (xy -5 -5)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "f81e6841-a072-4db1-b274-32bdfdfe4d32")
+	)
+	(pad "2" smd custom
+		(at -16 5)
+		(size 4.388303 9.388303)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 2.194152 -4.694152) (xy 2.194152 0) (xy 3 0) (xy 4 -1) (xy 4 -9) (xy 3 -10) (xy 0 -10) (xy 0 -6.888304)
+					(xy -2.194152 -4.694152)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "c69912a6-cd28-43c7-8cc2-c9b84770b5fb")
+	)
+	(pad "3" smd custom
+		(at -6 0 180)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 5 -5) (xy 7 -7) (xy 7 -9) (xy 6 -10) (xy -6 -10) (xy -7 -9) (xy -7 -7) (xy -5 -5)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "d5c18f95-4b6b-4fb8-b077-2e0df2652e5e")
+	)
+	(pad "4" smd custom
+		(at 4 5)
+		(size 4.388303 9.388303)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -2.194152 -4.694152) (xy -2.194152 0) (xy -3 0) (xy -4 -1) (xy -4 -9) (xy -3 -10) (xy 0 -10)
+					(xy 0 -6.888304) (xy 2.194152 -4.694152)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "8f37196e-4dbf-458d-89fc-41c88de034d2")
+	)
+	(pad "5" smd custom
+		(at 12 5)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 5 -5) (xy 7 -7) (xy 7 -9) (xy 6 -10) (xy -6 -10) (xy -7 -9) (xy -7 -7) (xy -5 -5)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "219c2025-ed25-487b-974a-dcace15cc95f")
+	)
+	(embedded_fonts no)
+)
