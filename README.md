@@ -37,7 +37,11 @@ first you will need to install circuit python copy the firmware and paste it hte
 
 # Parts list
 EC11 Rotary Encoders , Bourns Slide Potentiometers , 
-Kailh Choc Low-Profile Switches , xiao eps32-s3 and capacitive touc
+Kailh Choc Low-Profile Switches , xiao eps32-s3 and capacitive touch
+
+# PCB AND SCHEMATIC 
+
+![image alt](https://github.com/AlteranteTony/is-it-a-guitar/blob/09f79e7851ce0f7fd1af5018fc3a9e7f574d6849/pictures/final%20pcb.png)
 
 
 
