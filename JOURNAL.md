@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 10.2h | 3 |
+| Week 3 | Tier 1 | 11.2h | 3 |
 
 ## Contents
 
@@ -55,12 +55,12 @@ so today i was able to work a lot more than yesterday . today i made some change
 
 ### 2026-10-25 – hey! i worked on schematic again is it was brought to my attention that the connections were a little wrong and then i had to delete whole routing in pcb manually after that i wired it again but when
 
-**3.5h**
+**4.5h**
 
 hey! i worked on schematic again is it was brought to my attention that the connections were a little wrong and then i had to delete whole routing in pcb manually after that i wired it again but when working on firmware  i again was brought a fact that was i messes up a little in schematic but not as bad as last time so only had to delete a few routing and routed again and when working on firmware i had to bang my head and cry a lot because for god's sake i do not understand shit. i tried and tried again fr i am not even logging time for that because what i was able to accomplish was disappointing  total shit code almost did not understand anything myself . time i almost about to be over and i am very sad that that i was in fact not able to write firmware myself,
 even if i tried to make as many changes i can still then i think it still would be more than the 30% rule. i think that i gave my best and did all the work
 
- honestly and i know there is no chance it will get approved  due to the 30% ai rule hence no 3d printer. i am still gonna make a repo and add detailed read me and everything needed only in the hopes as hope is what at last i have . now only  like 7 hours left and i have got an exam so there is nothing more i can do . bet wishes and love to reviewer for bearing with me .
+ honestly and i know there is no chance it will get approved  due to the 30% ai rule hence no 3d printer. i am still gonna make a repo and add detailed read me and everything needed only in the hopes as hope is what at last i have . now only  like 7 hours left and i have got an exam so there is nothing more i can do . bet wishes and love to reviewer for bearing with me . ( i also worked on reame and repo)
 ![final-finalschematic](https://halflife.hackclub-assets.com/sessions/QRd7Q0F26XL001EcrZmtTQ4eaKaMjkCo/ce2a0473bb2b7bff39dbd7ce35ae02c03c9f0dc2c75ea882f830d17c27c50f1b.png)
 ![week3day4 had to reroute and del](https://halflife.hackclub-assets.com/sessions/QRd7Q0F26XL001EcrZmtTQ4eaKaMjkCo/594125582bf590c0caec9912ee61065b1f93fc8219770715ee110c1d5eeaf0a7.png)
 
